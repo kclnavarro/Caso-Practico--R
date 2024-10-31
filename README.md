@@ -29,3 +29,4 @@ de estos mismos datos se agruparon los pasajeros sobrevivientes y se observó mu
 pasajeros del sexo femenino sobrevivieron y los 266 pasajeros del sexo masculino no sobrevivieron.
 
 ## R 📊
+[R File]https://github.com/kclnavarro/Caso-Practico--R/blob/main/Caso%20Pr%C3%A1ctico.R 
